@@ -28,8 +28,6 @@
    ```bash
    git clone git@github.com:haroon423/CT-XRay-Diagnostics.git
    cd CT-XRay-Diagnostics
-
-pip install -r requirements.txt
-
-streamlit run app.py
+   pip install -r requirements.txt
+   streamlit run app.py
 
